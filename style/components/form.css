@@ -1,0 +1,154 @@
+.forms{
+    background-image:url('../../images/ducted-aircon-singapore.png');
+    padding: 50px 0;
+    /* height: 450px;
+    width: 100%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    border:1px solid rgb(189, 185, 185);
+}
+.form{
+    background-image:url('../../images/form2.png');
+    padding: 50px 0;
+    /* height: 450px;
+    width: 100%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    border:1px solid rgb(189, 185, 185);
+}
+.forms{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+.form{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+.forms h1{
+    font-size: 30px;
+}
+.form h1{
+    font-size: 30px;
+}
+.forms-inner form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.form-inner form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.forms-inner{
+    width: 415px;
+    padding:40px;
+    background-color: #fff;
+    border: 1px solid #c0c3c6; 
+    border-radius: 10px;
+}
+.form-inner{
+    width: 415px;
+    padding:40px;
+    background-color: #fff;
+    border: 1px solid #c0c3c6; 
+    border-radius: 10px;
+}
+.forms-inner input{
+    height: 44px;
+    padding-left: 30px;
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid #d5dae0;
+    box-sizing: border-box;
+    outline: none;
+    border-radius: 10px;
+}
+.form-inner input{
+    height: 44px;
+    padding-left: 30px;
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid #d5dae0;
+    box-sizing: border-box;
+    outline: none;
+    border-radius: 10px;
+}
+.forms-inner input::placeholder{
+    font-size: 15px;
+}
+.form-inner input::placeholder{
+    font-size: 15px;
+}
+.forms-inner button{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: italic;
+    padding: 15px 0;
+    border: 2px solid #2185c5;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.form-inner button{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: italic;
+    padding: 15px 0;
+    border: 2px solid #2185c5;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.form-icon{
+    position: absolute;
+    top: 180px;
+    left: 130px;
+}
+.icon{
+    margin-bottom: 50px;
+}
+.icon a{
+    font-size: 20px;
+    margin-right: 50px;
+    text-decoration: none;
+    color:black;
+}
+.icon i{
+    font-size: 40px;
+    color:#2185c5;
+    margin-right: 70px;
+}
+.forma-icon{
+    position: absolute;
+    top: 180px;
+    right: 70px;
+}
+.iconn{
+    margin-bottom: 50px;
+}
+.iconn a{
+    font-size: 20px;
+    margin-right: 50px;
+    text-decoration: none;
+    color:black;
+}
+.iconn i{
+    font-size: 40px;
+    color:#2185c5;
+    margin-right: 70px;
+}

@@ -1,0 +1,31 @@
+.home-inner{
+    background-image: url('../../images/gl.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-inner h1{
+    color:#000000;
+    font-size: 65px;
+    /* margin: 0 50px; */
+    font-weight: 600;
+    line-height: 1.4;
+    padding:130px 0 0 100px;
+}
+.home-inner button{
+    margin: 50px 100px 70px;
+    padding: 20px 65px;
+    background-color: #272732;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 0px 0px 70px 0px rgba(255, 254, 254, 0.5);
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+}
+.home-inner button:hover{
+    background-color:#2185c5;
+    color: #fff;
+}
